@@ -29,9 +29,7 @@ namespace Fiap.Web.AspNet.Models
         public string? Token { get; set; }
 
 
-        //Navegation Property
-        public IList<ClienteModel> Clientes { get; set; }
-
+       
         public RepresentanteModel()
         {
 
